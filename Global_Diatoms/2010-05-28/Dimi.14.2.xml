@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<eml:eml packageId="Dimi.14.2" system="knb" xmlns:eml="eml://ecoinformatics.org/eml-2.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.0 eml.xsd"> <dataset> <title>Global Lacrustine Diatom Data</title>
+ <creator id="1271940527234"> <individualName><givenName>Elie</givenName>
+<surName>Verleyen</surName>
+</individualName>
+<organizationName>Ugent</organizationName>
+<address><deliveryPoint>Krijgslaan 281 S8</deliveryPoint>
+<city>Ghent</city>
+<postalCode>9000</postalCode>
+<country>Belgium</country>
+</address>
+<phone phonetype="voice">003292648504</phone>
+<electronicMailAddress>elie.verleyen@ugent.be</electronicMailAddress>
+</creator>
+ <creator id="1271940649062"><individualName><salutation>Prof.</salutation>
+<givenName>Wim</givenName>
+<surName>Vyverman</surName>
+</individualName>
+<organizationName>Ugent</organizationName>
+<address><deliveryPoint>Krijgslaan 281</deliveryPoint>
+<city>Ghent</city>
+<postalCode>9000</postalCode>
+<country>Belgium</country>
+</address>
+<phone phonetype="voice">003292648501</phone>
+<electronicMailAddress>wim.vyverman@ugent.be</electronicMailAddress>
+</creator>
+<associatedParty><references>1271940527234</references>
+<role>Principal Investigator</role>
+</associatedParty>
+<associatedParty><references>1271940527234</references>
+<role>Author</role>
+</associatedParty>
+<associatedParty id="1271940829875"><individualName><surName>Juggins</surName>
+</individualName>
+<organizationName>University of Newcastle</organizationName>
+<address><country>United Kingdom</country>
+</address>
+<role>Author</role>
+</associatedParty>
+<associatedParty id="1271940901859"><individualName><salutation>Dr.</salutation>
+<givenName>Bart</givenName>
+<surName>Van de Vijver</surName>
+</individualName>
+<organizationName>Brussels Botanical Garden</organizationName>
+<address><country>Belgium</country>
+</address>
+<role>Author</role>
+</associatedParty>
+<associatedParty id="1271940958515"><individualName><givenName>Vivienne</givenName>
+<surName>Jones</surName>
+</individualName>
+<organizationName>University Cottage London</organizationName>
+<address><country>United Kingdom</country>
+</address>
+<role>Author</role>
+</associatedParty>
+<associatedParty id="1271941023343"><individualName><givenName>Roger</givenName>
+<surName>Flower</surName>
+</individualName>
+<organizationName>University Cottage London</organizationName>
+<address><country>United Kingdom</country>
+</address>
+<role>Author</role>
+</associatedParty>
+<associatedParty id="1271941127000"><individualName><givenName>Dominic</givenName>
+<surName>Hodgson</surName>
+</individualName>
+<organizationName>Brittish Antartic Survey</organizationName>
+<role>Author</role>
+</associatedParty>
+<associatedParty id="1260889301356"><individualName><givenName>Dimitri Brosens</givenName>
+<surName>Brosens</surName>
+</individualName>
+<organizationName>BBPF</organizationName>
+<positionName>DAM</positionName>
+<address><deliveryPoint>Kliniekstraat 25</deliveryPoint>
+<city>Brussels</city>
+<postalCode>1070</postalCode>
+<country>Belgium</country>
+</address>
+<electronicMailAddress>dimitri.brosens@inbo.be</electronicMailAddress>
+<onlineUrl>http://biodiversity.be</onlineUrl>
+<role>Metadata Provider</role>
+</associatedParty>
+<abstract><para>Elie stuurt door</para>
+</abstract>
+<keywordSet><keyword>Diatoms</keyword>
+<keyword>Lake</keyword>
+<keyword>Freshwater</keyword>
+<keyword>Paleolimnology</keyword>
+</keywordSet>
+<intellectualRights><para>No restrictions (Dataset must be cited)</para>
+</intellectualRights>
+<coverage><geographicCoverage><geographicDescription>Global Lacrustine Diatom Database</geographicDescription>
+<boundingCoordinates><westBoundingCoordinate>-178.375</westBoundingCoordinate>
+<eastBoundingCoordinate>178.375</eastBoundingCoordinate>
+<northBoundingCoordinate>88.375</northBoundingCoordinate>
+<southBoundingCoordinate>-90.0</southBoundingCoordinate>
+</boundingCoordinates>
+</geographicCoverage>
+<temporalCoverage><rangeOfDates><beginDate><calendarDate>1960</calendarDate>
+</beginDate>
+<endDate><calendarDate>2001</calendarDate>
+</endDate>
+</rangeOfDates>
+</temporalCoverage>
+</coverage>
+<contact><references>1271940527234</references>
+</contact>
+<contact><references>1271940649062</references>
+</contact>
+<methods><methodStep><description><section><title>Surface sediment sampling</title>
+<para>Upper cm of the deepest part of a lake has been sampled</para>
+</section>
+</description>
+<instrumentation>Surface sediment cores</instrumentation>
+</methodStep>
+<sampling><studyExtent><description><para>Taxonomic: Genus level</para>
+</description>
+</studyExtent>
+<samplingDescription><para>Diatoms slide preparation according to standardized techniques</para>
+</samplingDescription>
+</sampling>
+</methods>
+<project><title>FWO G0533.07N</title>
+<personnel><references>1271940649062</references>
+<role>Originator</role>
+</personnel>
+<funding><para>FWO</para>
+</funding>
+</project>
+</dataset>
+ </eml:eml>
