@@ -1,0 +1,40 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="b24d3bd0-e6d9-11dc-8b77-b8a03c50a862"  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+      <alternateIdentifier system="doi.org">doi:10.15468/lg8wsd</alternateIdentifier>
+    <alternateIdentifier>2626</alternateIdentifier>
+  <title>University of Ghent - Zoology Museum - Nematodencollectie</title>
+<creator>
+</creator>
+<metadataProvider>
+</metadataProvider>
+<associatedParty>
+<positionName>[data administrator]</positionName><electronicMailAddress>andre.heughebaert@ulb.ac.be</electronicMailAddress></associatedParty>
+<associatedParty>
+<positionName>[data administrator]</positionName><electronicMailAddress>dominick.verschelde@ugent.be</electronicMailAddress></associatedParty>
+<language>en</language>
+<abstract>
+  <para>Ghent University Zoology Museum curates a nematode type collection of over 4000 slides. Up till now, 2040 slides are inventoried digitally.</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://tapir.bebif.be/tapir.php/UGENT_nematodes</url>
+    </online>
+  </distribution>
+
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+        <dateStamp>2015-05-13T06:56:02.850+02:00</dateStamp>
+        <citation>BeBIF Provider: University of Ghent - Zoology Museum - Nematodencollectie</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>
